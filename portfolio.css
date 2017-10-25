@@ -50,6 +50,7 @@ header a:hover{
 	font-size: 600%;
 	line-height: 0.8;
 	color: rgba(255,255,255,0.5);
+	padding-bottom: 10px;
 }
 #about #about-cont{
 	display: flex;
@@ -87,6 +88,7 @@ header a:hover{
 	font-size: 600%;
 	line-height: 0.8;
 	color: rgba(255,255,255,0.4);
+	padding-bottom: 10px;
 }
 #works-cont{
 	display: flex;
@@ -117,10 +119,8 @@ header a:hover{
 #contact h1{
 	font-size: 600%;
 	line-height: 0.6;
-	
 	color: rgba(255,255,255,0.3);
-
-
+	padding-bottom: 10px;
 }
 #contact #contact-cont{
 	display: flex;
